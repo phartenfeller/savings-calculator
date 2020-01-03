@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 body {
-  @apply antialiased bg-gray-700;
+  @apply antialiased bg-gray-100;
 }
